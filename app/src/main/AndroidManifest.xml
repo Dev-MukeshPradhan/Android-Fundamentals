@@ -25,6 +25,22 @@
             android:name=".SecondActivity"
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".Student_Details"
+            android:exported="false"
+            android:label="@string/title_activity_student_details"
+            android:theme="@style/Theme.Fragments"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".Student_Deatils"
+            android:exported="false"
+            android:label="@string/title_activity_student_deatils"
+            android:theme="@style/Theme.Fragments"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".Student_DetailsActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
     </application>
 
 </manifest>
