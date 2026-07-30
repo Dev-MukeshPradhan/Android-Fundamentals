@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "fragments"
 include(":fragments-demo")
+include(":permissions-demo")

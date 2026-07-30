@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/fragments-demo" />
+            <option value="$PROJECT_DIR$/permissions-demo" />
           </set>
         </option>
       </GradleProjectSettings>
