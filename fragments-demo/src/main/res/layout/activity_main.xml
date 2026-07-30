@@ -60,7 +60,7 @@
         app:layout_constraintTop_toBottomOf="@+id/age" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/sub_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Submit"
@@ -69,5 +69,16 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/standard" />
+
+    <Button
+        android:id="@+id/implicit_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Implicit Action Test"
+        android:textSize="25sp"
+        android:layout_marginTop="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/sub_btn" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

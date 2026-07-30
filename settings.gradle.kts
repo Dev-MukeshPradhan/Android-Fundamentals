@@ -23,4 +23,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "fragments"
-include(":app")
+include(":fragments-demo")
